@@ -3,5 +3,5 @@
 -- Value = decal asset id (number or string)
 
 return {
-    [8304215345] = "rbxassetid://114546308478047", -- Example User 1
+    [83759969274385] = "rbxassetid://114546308478047", -- Example User 1
 }
